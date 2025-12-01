@@ -5,6 +5,12 @@
 
 **My personal solutions for the *[Advent of Code](https://adventofcode.com/2025/)* programming puzzle.**
 
+## Solutions
+
+| Day                                                   | Part 1 | Part 2 |
+|-------------------------------------------------------|--------|--------|
+| [01](src/main/java/swiss/fihlon/aoc/day01/Day01.java) | ✅      | ✅      |
+
 ## Contributing
 
 Thanks for your interest, but this repository is intentionally a personal project. I publish my solutions here as my own *Advent of Code* journey, not as a collaborative codebase.
