@@ -22,7 +22,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class Day1Test {
+class Day01Test {
 
     private static final String EXAMPLE_INPUT = """
             L68
@@ -39,8 +39,8 @@ class Day1Test {
 
     @Test
     void example() {
-        final var day1 = new Day01();
-        final var password = day1.solvePuzzle(EXAMPLE_INPUT.trim().split("\n"));
+        final var day01 = new Day01();
+        final var password = day01.solvePuzzle(EXAMPLE_INPUT.trim().split("\n"));
         assertEquals(6, password);
     }
 

@@ -61,8 +61,8 @@ public final class Day01 {
      */
     static void main() throws IOException {
         final var puzzleInput = Tools.readResourceLines("/day1.txt");
-        final var day1 = new Day01();
-        final var password = day1.solvePuzzle(puzzleInput);
+        final var day01 = new Day01();
+        final var password = day01.solvePuzzle(puzzleInput);
         LOGGER.info("The password is: {}", password);
     }
 }
