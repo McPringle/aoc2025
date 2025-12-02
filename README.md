@@ -10,6 +10,7 @@
 | Day                                                   | Part 1 | Part 2 |
 |-------------------------------------------------------|--------|--------|
 | [01](src/main/java/swiss/fihlon/aoc/day01/Day01.java) | ✅      | ✅      |
+| [02](src/main/java/swiss/fihlon/aoc/day02/Day02.java) | ✅      | ✅      |
 
 ## Contributing
 
