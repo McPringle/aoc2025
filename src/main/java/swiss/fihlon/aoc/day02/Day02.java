@@ -26,6 +26,9 @@ import swiss.fihlon.aoc.Tools;
 import java.io.IOException;
 import java.util.Arrays;
 
+/**
+ * Solution for Day 2 of Advent of Code 2025.
+ */
 public class Day02 {
 
     /**
