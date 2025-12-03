@@ -54,8 +54,8 @@ public class Day02 {
      */
     static void main() throws IOException {
         final var puzzleInput = Tools.readResourceLines("/day02.txt");
-        final var day2 = new Day02();
-        final var summary = day2.solvePuzzle(puzzleInput[0].split(","));
+        final var day02 = new Day02();
+        final var summary = day02.solvePuzzle(puzzleInput[0].split(","));
         LOGGER.info("The summary is: {}", summary);
     }
 }
